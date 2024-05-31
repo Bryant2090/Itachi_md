@@ -13,16 +13,16 @@
 <p align="center">
 <a href="https://github.com/Bryant2090?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/BRYANT2090?label=Followers&style=social"></a>
 <a href="https://github.com/Bryant2090/Itachi_md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Bryant2090/Itachi-Md?&style=social"></a>
-<a href="https://github.com/Bryant2090/Itachi-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/https://github.com/Bryant2090/Itachi_md?style=social"></a>
-<a href="https://github.com/Bryant2090/Itachi-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/franceking1/Flash-Md?label=Watching&style=social"></a>
+<a href="https://github.com/Bryant2090/Itachi-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/github.com/Bryant2090/Itachi_md?style=social"></a>
+<a href="https://github.com/Bryant2090/Itachi-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Bryant2090/Itachi_Md?label=Watching&style=social"></a>
   
 ***
 
 #### SETUP 
 
-***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/franceking1/Flash-Md/fork) It***
+***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Bryant2090/Itachi_md) It***
 
-***2.`Get Session ID` by [`SCANING QR`](https://flash-md-qr.onrender.com) Or [`PAIRING CODE`](https://flash-md-z6lm.onrender.com/pair)***
+***2.`Get Session ID` by [`SCANING QR`](https://Itachi_md-qr.onrender.com) Or [`PAIRING CODE`](https://Itachi_md-z6lm.onrender.com/pair)***
 
 *-Copy The Session ID to paste it in Heroku*
 
