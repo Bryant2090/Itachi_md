@@ -1,5 +1,5 @@
 {
-  "name":"ITACHI-MD",
+  "name":"ITACHI_MD",
   "description":"An easy and simple WhatsApp bot developed by Bryant. Tech",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/f723bb7a842f4dacc05b7.jpg",
@@ -80,7 +80,7 @@
 
     "desc": "Your Name",
     "required": false,
-    "value": "France King"
+    "value": "Bryant tech"
   },
     "OWNER_NUMBER":
   {
