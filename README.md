@@ -36,7 +36,7 @@
 
 **2. If You Have a Heroku Account**
     <br>
-<p align="center"><a href="https://bot-by-umar-d2b1b3360401.herokuapp.com"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/King2090/MADARA-MD"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 ***
