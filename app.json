@@ -3,7 +3,7 @@
   "description":"An easy and simple WhatsApp bot developed by Bryant. Tech",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/f723bb7a842f4dacc05b7.jpg",
-  "repository":"https://github.com/Bryant2090/Itachi-Md",
+  "repository":"https://github.com/Bryant2090/Itachi_md",
   "succes_url":"/",
   "stack":"container",
      "env":{
